@@ -1,14 +1,15 @@
-# Hi 👋, I'm Rithik
+<h1 align="center">Hi 👋, I'm Rithik</h1>
+<h3 align="center">🎓 Mechanical Engineering Student | AI Enthusiast | Web Developer</h3>
 
-### 🎓 Mechanical Engineering Student | AI Enthusiast | Web Developer
-
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=DEV-rithik&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<a href="https://twitter.com/DEV_rithik" target="blank">
-  <img src="https://img.shields.io/twitter/follow/DEV_rithik?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-</a>
+<p align="center">
+  <a href="https://twitter.com/DEV_rithik" target="blank">
+    <img src="https://img.shields.io/twitter/follow/DEV_rithik?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+</p>
 
 ---
 
@@ -21,20 +22,20 @@
 
 ---
 
-## 🔗 Connect with me: 
+## 🔗 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/rithik-basava" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:rithikbasava6@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" height="40" width="40" />
+    <img align="center" src="https://img.icons8.com/fluency/48/gmail-new. png" alt="Gmail" height="40" width="40" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Languages and Tools:
+## 🛠️ Languages and Tools: 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
@@ -49,11 +50,11 @@
   </a>
   &nbsp;
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark. svg" alt="HTML5" width="45" height="45"/>
   </a>
   &nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark. svg" alt="CSS3" width="45" height="45"/>
   </a>
   &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -79,17 +80,17 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats: 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DEV-rithik&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEV-rithik&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp. com/?user=DEV-rithik&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel. app/api/top-langs? username=DEV-rithik&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs? username=DEV-rithik&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 ---
