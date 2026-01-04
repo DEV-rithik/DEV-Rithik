@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rithik</h1>
-<h3 align="center">🎓 Mechanical Engineering Student | AI Enthusiast | Web Developer</h3>
+<h3 align="center">🎓 Mechanical Engineering Student | AI and web development Enthusiast</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=DEV-rithik&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -76,21 +76,6 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats: 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEV-rithik&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp. com/?user=DEV-rithik&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs? username=DEV-rithik&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 ---
